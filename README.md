@@ -82,5 +82,13 @@ If you want to contact the maintainer, you can reach out <a href="mailto:sergio.
 
 - This project makes use of the [iemap-mi](https://pypi.org/project/iemap-mi/) Python module
 - Special thanks to the IEMAP team for providing the API and documentation
-## Run docker container from image
+
+## Run jupyter notebook from docker image
+get the docker image from docker hub
+```bash
+docker pull sergioeanx/iemap-mi-jupyter
+```
+run a container with the image
+```bash
 docker run -p 8888:8888 -v /path/on/host:/app/host_files iemap-mi-jupyter
+```
