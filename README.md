@@ -75,7 +75,7 @@ This project uses the following license: [MIT License](https://opensource.org/li
 
 ## Contact
 
-If you want to contact the maintainer, you can reach out at <a href="mailto:sergio.ferlito@enea.it?subject=Support IEMAP-MI API">here</a>
+If you want to contact the maintainer, you can reach out [here](mailto:sergio.ferlitol%40enea.it?subject=IEMAP-MI Module Support).
  
 
 ## Acknowledgements
