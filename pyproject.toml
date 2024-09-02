@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "iemap-mi-docker"
+version = "0.1.0"
+description = ""
+authors = ["SergioEanX <sergio.ferlito@enea.it>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+iemap-mi = "^0.2.0"
+pandas = "^2.2.2"
+seaborn = "^0.13.2"
+nest-asyncio = "^1.6.0"
+asyncio = "^3.4.3"
+stdiomask = "^0.0.6"
+ipywidgets = "^8.1.3"
+aiohttp = "^3.10.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
