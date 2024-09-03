@@ -44,7 +44,7 @@ poetry install
 ```bash
 poetry run jupyter notebook
 ```
-2. Open the `IEMAP_MI_Demo.ipynb` notebook
+2. Open the `how-to-iemap-mi.ipynb` notebook
 3. Run the cells in order, following the instructions within the notebook
 
 ## Features
